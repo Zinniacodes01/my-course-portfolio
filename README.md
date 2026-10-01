@@ -13,6 +13,11 @@ Welcome to my academic portfolio for CEP146!
 - [ ] Complete all lab assignments
 - [ ] Build a professional portfolio
 - [ ] Collaborate on group projects
+## Contact Me
+
+- **Email:** rpkpatel@myseneca.ca
+- **GitHub:** [patelrushi2004](https://github.com/patelrushi2004)
+- **LinkedIn:** [LinkedIn Profile]
 
 ## Projects
 *This section will be updated as I complete assignments*
